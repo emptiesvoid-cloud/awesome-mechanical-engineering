@@ -86,6 +86,7 @@
 - **[Salome](https://www.salome-platform.org/)** - A platform for pre- and post-processing for numerical simulations.
 - **[ParaView](https://www.paraview.org/)** - Open-source data analysis and visualization software.
 - **[Calculix](http://www.calculix.de/)** - An open-source FEA software for structural analysis.
+- **[QF Solver](https://github.com/emptiesvoid-cloud/QF_solver)** - Open-source Python finite element solver for structural mechanics, supporting static and dynamic analyses, with documented numerical verification.
 - **[KiCAD](https://kicad.org/)** - An open-source tool for designing electronic circuits in mechatronics.
 
 ## Educational Resources
